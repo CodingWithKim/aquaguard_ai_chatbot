@@ -55,8 +55,8 @@ Before you can run this project, you need to configure your OpenAI API key.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/aquaguard.git
-    cd aquaguard
+    git clone https://github.com/your-username/aquaguard_ai_chatbot.git
+    cd aquaguard_ai_chatbot
     ```
 
 2.  **Install dependencies:**
