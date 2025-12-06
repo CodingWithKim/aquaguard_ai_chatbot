@@ -2,9 +2,6 @@
 
 AquaGuard is an interactive web application built with Next.js that provides a real-time dashboard for monitoring water turbidity. It features an AI-powered chatbot, "Aqua," which can answer questions about water quality in text, audio, or even video format, leveraging the power of OpenAI's latest models.
 
-
-*(Suggestion: Add a screenshot of your application here for a better visual representation.)*
-
 ## ✨ Features
 
 *   **Real-time Turbidity Chart**: Visualize 24-hour water turbidity data with a clean and responsive line chart.
@@ -85,6 +82,6 @@ Before you can run this project, you need to configure your OpenAI API key.
 
 For a complete walkthrough of the application's features and a live demonstration of the AI chatbot in action, please watch the video below.
 
-[![AquaGuard Project Showcase](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/YOUR_YOUTUBE_VIDEO_ID_HERE)
+[![AquaGuard Project Showcase](https://img.youtube.com/vi/mQD-yhsbISQ/maxresdefault.jpg)](https://youtu.be/mQD-yhsbISQ)
 
 *Click the thumbnail above to watch the video demonstration on YouTube.*
