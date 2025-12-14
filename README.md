@@ -78,6 +78,10 @@ Before you can run this project, you need to configure your OpenAI API key.
 
 4.  **Open your browser** and navigate to [http://localhost:3000](http://localhost:3000) to see the application in action.
 
+## 🙂 Prototype Showcase
+
+Please click on this link to view our AquaGuard Prototype on Figma: [Click Me](https://www.figma.com/design/WKuW6itbkfpiizLv2qUavP/HCI-Assignment-2-Group-5-AquaGuard-Prototype?node-id=0-1&t=ayK1KhC08PzBNCpS-1)
+
 ## 🎥 Project Showcase
 
 For a complete walkthrough of the application's features and a live demonstration of the AI chatbot in action, please watch the video below.
